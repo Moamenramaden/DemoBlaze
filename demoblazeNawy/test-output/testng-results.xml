@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-30T23:18:35 EET" name="Default suite" finished-at="2025-01-30T23:19:13 EET" duration-ms="38530">
+    <groups>
+    </groups>
+    <test started-at="2025-01-30T23:18:35 EET" name="Default test" finished-at="2025-01-30T23:19:13 EET" duration-ms="38530">
+      <class name="demoblazeExecute.signupExecute">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:18:35 EET" name="beforeMethod" finished-at="2025-01-30T23:18:43 EET" duration-ms="8048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validRegistration()[pri:1, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:18:43 EET" name="validRegistration" finished-at="2025-01-30T23:18:49 EET" duration-ms="6239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegistration -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:18:49 EET" name="afterMethod" finished-at="2025-01-30T23:18:51 EET" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:18:51 EET" name="beforeMethod" finished-at="2025-01-30T23:18:57 EET" duration-ms="5773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidRegistrationUsernameMissing()[pri:2, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:18:57 EET" name="invalidRegistrationUsernameMissing" finished-at="2025-01-30T23:19:02 EET" duration-ms="4914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegistrationUsernameMissing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:19:02 EET" name="afterMethod" finished-at="2025-01-30T23:19:03 EET" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:19:03 EET" name="beforeMethod" finished-at="2025-01-30T23:19:08 EET" duration-ms="4818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidRegistrationPasswordMissing()[pri:3, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:19:08 EET" name="invalidRegistrationPasswordMissing" finished-at="2025-01-30T23:19:13 EET" duration-ms="5044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegistrationPasswordMissing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demoblazeExecute.signupExecute@f09733f]" started-at="2025-01-30T23:19:13 EET" name="afterMethod" finished-at="2025-01-30T23:19:13 EET" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- demoblazeExecute.signupExecute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
