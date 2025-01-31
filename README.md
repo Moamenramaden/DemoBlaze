@@ -25,7 +25,7 @@ Ensure you have the following software installed on your system before running t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/demoblaze-automation.git
+   git clone https://github.com/Moamenramaden/demoblaze-automation.git
 2. **Navigate to project**
     ```bash
     cd demoblaze-automation
